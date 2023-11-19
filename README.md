@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jhon-dave-bohol-86a80a190/](https://www.linkedin.com/in/jhon-dave-bohol-86a80a190/)
 
-- ⚡ Fun fact **Nimble Typer**
+- ⚡ Fun fact **I'm a Nimble Typer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
