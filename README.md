@@ -8,12 +8,11 @@
 
 - 📫 How to reach me **jhondave.bohol@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jhon-dave-bohol-86a80a190/](https://www.linkedin.com/in/jhon-dave-bohol-86a80a190/)
-
 - ⚡ Fun fact **I'm a Nimble Typer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jhon dave bohol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon dave bohol" height="30" width="40" /></a>
 <a href="https://fb.com/jhon dave bohol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhon dave bohol" height="30" width="40" /></a>
 </p>
 
