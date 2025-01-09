@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon Dave Bohol</h1>
-<h3 align="center">Hello! I'm a Web Developer specializing in developing solutions with JavaScript</h3>
+<h3 align="center">Hello! I'm an aspiring Cybersecurity specifically Blue Team!</h3>
 
   
 - 🔭 I’m currently working on TryHackMe and Cybrary
