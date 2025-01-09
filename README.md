@@ -2,9 +2,9 @@
 <h3 align="center">Hello! I'm a Web Developer specializing in developing solutions with JavaScript</h3>
 
   
-- 🔭 I’m currently working on **Cart & tell (Ecommerce Website)**
+- 🔭 I’m currently working on TryHackMe and Cybrary
 
-- 🌱 I’m currently learning **Web Development and Data Science**
+- 🌱 I’m currently learning Cybersecurity (Blue Team)
 
 - 📫 How to reach me **jhondave.bohol@gmail.com**
 
